@@ -31,7 +31,7 @@ https://www.github.com/toshas/torch-fidelity
 """
 
 setup(
-    name='torch_fidelity',
+    name='torc_fidelity',
     version=__version__,
     description='High-fidelity performance metrics for generative models in PyTorch',
     long_description=long_description,
