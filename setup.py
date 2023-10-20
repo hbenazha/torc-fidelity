@@ -41,7 +41,7 @@ setup(
     packages=find_packages(),
     author='Anton Obukhov',
     license='Apache License 2.0',
-    url='https://www.github.com/toshas/torch-fidelity',
+    url='https://github.com/hbenazha/torc-fidelity',
     keywords=[
         'reproducibility', 'fidelity', 'deep', 'generative', 'adversarial', 'networks', 'gan',
         'inception', 'score', 'frechet', 'distance', 'kernel', 'perceptual', 'path', 'length',
